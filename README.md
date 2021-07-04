@@ -1,2 +1,2 @@
-# E-Comeerce-website
+# E-Commerce-website
 E-Commerce shopping website using python
